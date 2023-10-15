@@ -28,6 +28,6 @@ Implemented Perceptron Learning algorithm from scratch to classify two linearly 
 Used K-means alogorithm to cluster satellite images with multiple types of regions (water-body, concrete, agricultural)
 
 
-# Asssignment-6: assignment_6_srijan_rit.ipynb
+# Assignment-6: assignment_6_srijan_rit.ipynb
 
 Implemented Logistic Regression from scratch to classify MNIST dataset, achieved an accuracy of 90.35%
